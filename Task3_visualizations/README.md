@@ -1,8 +1,8 @@
-# Task 3 - Power BI Visualizations
+# Task 3  Visualizations
 
 ## Dashboard
 
-This project contains an interactive Power BI dashboard created using the Titanic dataset.
+This project contains an interactive dashboard created using the Globel_superstore dataset.
 
 ## How to Open Dashboard
 
